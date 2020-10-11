@@ -1,7 +1,7 @@
 # arduino-organ
 Combo organ with 12 arduinos.
 
-This is a project that uses 12 arduinos as tone generator modules for a combo organ of 4 octaves (48 notes, C to B). The design is inspired in the classic Vox Continental and other transisor organs that work with 12 identical tone generator modules, each tuned to a different note, and using frequency dividers to produce the pitches of different octaves.
+This is a project that uses 12 arduinos as tone generator modules for a combo organ of 4 octaves (48 notes, C to B). The design is inspired in the classic Vox Continental and other transistor organs that work with 12 identical tone generator modules, each tuned to a different note, and using frequency dividers to produce the pitches of different octaves.
 
 Each tone generator outputs the combined sound of 7 waves corresponding to a fixed note at 7 different octaves. The whole organ effectively emulates a tonewheel organ with 84 tone wheels.
 
